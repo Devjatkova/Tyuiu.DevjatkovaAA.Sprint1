@@ -11,7 +11,7 @@ using Tyuiu.DevjatkovaAA.Sprint1.Task1.V10.Lib;
 
 namespace Tyuiu.DevjatkovaAA.Sprint1.Task1.V10
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {

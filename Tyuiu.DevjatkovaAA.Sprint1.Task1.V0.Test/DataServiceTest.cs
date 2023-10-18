@@ -10,7 +10,8 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task1.V10.Test
         [TestMethod]
         public void ValidExpression()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
+
             double x = 9.0;
             double y = 11.0;
             var res = ds.Calculate(x, y);
