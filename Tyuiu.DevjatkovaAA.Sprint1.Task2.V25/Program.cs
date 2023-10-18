@@ -16,7 +16,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task2.V25
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнила: Девяткова А. А. | АСОиУБ-23-3";

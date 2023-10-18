@@ -12,7 +12,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task2.V25.Test
         {
             DataService ds = new DataService();
             int a = 2;
-            var res = ds.ConvertRadsToDegrees(a);
+            var res = ds.ConvertRadsToDegrees(a); 
             Assert.AreEqual(114.649681528662, res);
         }
     }

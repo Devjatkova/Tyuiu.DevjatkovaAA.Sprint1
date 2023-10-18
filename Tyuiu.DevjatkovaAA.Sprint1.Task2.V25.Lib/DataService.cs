@@ -11,7 +11,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task2.V25.Lib
     {
         public double ConvertRadsToDegrees(int value)
         {
-            return value * 180 / 3.14;
+            return value * 180 / 3.14; 
         }
     }
 }
