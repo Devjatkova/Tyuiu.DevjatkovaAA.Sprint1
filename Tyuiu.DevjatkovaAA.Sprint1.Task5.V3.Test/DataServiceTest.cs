@@ -10,7 +10,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task5.V3.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int k = 130985;
             int h = 9;
             var res = ds.Calculate(k);

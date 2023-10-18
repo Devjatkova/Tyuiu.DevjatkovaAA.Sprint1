@@ -30,7 +30,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task5.V3
             Console.WriteLine("***************************************************************************");
             int k;
             Console.WriteLine("Введите значение k = ");
-            k = Convert.ToInt32(Console.ReadLine());
+            k = Convert.ToInt32(Console.ReadLine()); 
 
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");

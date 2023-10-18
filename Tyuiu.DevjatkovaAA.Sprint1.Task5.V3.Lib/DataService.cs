@@ -11,7 +11,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task5.V3.Lib
     {
         public int Calculate(int k)
         {
-            var res = k % 1000 / 100;
+            var res = k % 1000 / 100; 
             return res;
         }
     }
