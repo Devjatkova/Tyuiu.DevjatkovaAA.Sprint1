@@ -13,6 +13,6 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task7.V8.Lib
         {
             double res = (x * Math.Log(x)) + (y / (Math.Cos(x) - x / 3));
             return res;
-        }
+        } 
     }
 }

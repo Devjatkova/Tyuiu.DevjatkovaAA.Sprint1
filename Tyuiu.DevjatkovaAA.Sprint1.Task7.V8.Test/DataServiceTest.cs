@@ -14,7 +14,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task7.V8.Test
             double x = 60;
             double y = 10;
             double z = 245.183401735616;
-            var res = ds.Calculate(x, y);
+            var res = ds.Calculate(x, y); 
             Assert.AreEqual(z, res);
         }
     }

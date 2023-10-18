@@ -56,7 +56,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task7.V8
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("{0:0.000}",ds.Calculate(x, y));
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
