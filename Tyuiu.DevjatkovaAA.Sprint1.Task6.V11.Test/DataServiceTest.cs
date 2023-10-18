@@ -12,7 +12,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task6.V11.Test
         {
             string strTest = "жизнь состоит из деталей, дак оторвись же от суеты и посмотри на них ";
             DataService ds = new DataService();
-            bool res = ds.CheckeFirstLetterRepetition(strTest);
+            bool res = ds.CheckeFirstLetterRepetition(strTest); 
             bool wait = true;
             Assert.AreEqual(wait, res);
         }

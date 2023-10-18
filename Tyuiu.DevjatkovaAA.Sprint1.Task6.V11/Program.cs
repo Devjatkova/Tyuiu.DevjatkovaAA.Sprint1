@@ -29,7 +29,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task6.V11
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Введите предложение ");
+            Console.WriteLine("Введите предложение "); 
             string str = Console.ReadLine();
 
             Console.WriteLine("*                                                                         *");

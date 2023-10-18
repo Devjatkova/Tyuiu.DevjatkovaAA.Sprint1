@@ -12,7 +12,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task6.V11.Lib
         public bool CheckeFirstLetterRepetition(string value)
         {
             string one = value.Substring(1);
-            string two = value.Substring(0, 0 + 1);
+            string two = value.Substring(0, 0 + 1); 
             
             return one.Contains(two);
         }
