@@ -9,7 +9,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task0.V7
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
 
