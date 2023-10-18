@@ -16,7 +16,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task3.V2.Test
             double pricePencil = 5;
             int amountPencil = 10;
             var res = ds.PurchaseAmount(priceNotebook, amountNotebook, pricePencil, amountPencil);
-            Assert.AreEqual(56, res);
+            Assert.AreEqual(56, res); 
         }
     }
 }

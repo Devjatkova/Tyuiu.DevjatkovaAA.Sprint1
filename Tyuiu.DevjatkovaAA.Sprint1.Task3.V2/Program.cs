@@ -15,7 +15,7 @@ using Tyuiu.DevjatkovaAA.Sprint1.Task3.V2.Lib;
 
 namespace Tyuiu.DevjatkovaAA.Sprint1.Task3.V2
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
