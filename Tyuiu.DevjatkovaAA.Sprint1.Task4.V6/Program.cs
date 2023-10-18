@@ -46,7 +46,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task4.V6
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("|y ^ 2 - x| / x * y = " + ds.Calculate(x, y));
+            Console.WriteLine("|y ^ 2 - x| / x * y = " + ds.Calculate(x, y)); 
             Console.ReadKey();
         }
     }

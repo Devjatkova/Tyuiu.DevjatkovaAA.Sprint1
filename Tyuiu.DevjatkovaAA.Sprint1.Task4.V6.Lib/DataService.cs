@@ -11,7 +11,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task4.V6.Lib
     {
         public double Calculate(double x, double y)
         {
-            var res = Math.Abs(Math.Pow(y,2) - x) / (x * y);
+            var res = Math.Abs(Math.Pow(y,2) - x) / (x * y); 
             return res;
         }
     }
