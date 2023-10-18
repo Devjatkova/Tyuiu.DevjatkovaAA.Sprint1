@@ -41,7 +41,6 @@ namespace Tyuiu.DevjatkovaAA.Sprint1.Task0.V0
             //в классе DataService
             Console.WriteLine(ds.Calculate());
             Console.ReadLine();
-
         }
     }
 }
